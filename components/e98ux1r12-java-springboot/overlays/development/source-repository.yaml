@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e98ux1r12-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/e98ux1r12-java-springboot
